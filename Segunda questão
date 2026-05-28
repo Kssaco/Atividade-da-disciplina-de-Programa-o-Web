@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade JavaScript</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Segunda questão</h1>
+        <h2>Botão com mensagem</h2>
+    </header>
+    <p id="texto">Texto inicial</p>
+    <button onclick="mostramensagem()">Sou um botão</button>
+    <script src="script.js"></script>
+
+</body>
+</html>
