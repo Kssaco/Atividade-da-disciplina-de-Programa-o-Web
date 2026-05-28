@@ -5,18 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Atividade JavaScript</title>
 </head>
+
 <body>
+
     <header>
-        <h1>
-            Primeira questão
-        </h1>
-        <h2>
-        Botão com mensagem
-        </h2>
+        <h1>Primeira questão</h1>
+        <h2>Botão com mensagem</h2>
     </header>
-    <button onclick="mostrarmensagem()">Sou um botão</button>
-   <script>
-   </script>
-    
+
+    <button onclick="mostramensagem()">Sou um botão</button>
+
+    <script src="script.js"></script>
+
 </body>
 </html>
